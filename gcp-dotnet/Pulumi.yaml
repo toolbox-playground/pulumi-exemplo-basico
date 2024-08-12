@@ -1,0 +1,3 @@
+name: gcp-cloud-run-dotnet
+runtime: yaml
+description: Exemplo de deploy de um serviço GCP Cloud Run em .NET usando Pulumi YAML

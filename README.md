@@ -15,7 +15,8 @@ Seguir passo a passo da instalação do [gcloud sdk](https://cloud.google.com/sd
 |__.github                          # Pasta com os arquivos de CI/CD para o GitHub Actions
 |__gcp-node                         # Exemplo prático 
 |  |__Pulumi.yaml                   # Estrutura do projeto Pulumi
-|  |__index.js                      # Código principal                   
+|  |__index.js                      # Código principal 
+|__dotnet                           # Recriar o projeto de node em dotnet            
 |__modulos                          # Módulos para execução de infra estrutura
 |__CHANGELOG.md                     # Arquivo de controle de changes do repositório
 |__CONTRIBUTING.md                  # Arquivo com diretrizes de contribuição
