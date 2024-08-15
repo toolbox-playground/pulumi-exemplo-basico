@@ -1,0 +1,4 @@
+config:
+  gcp-python:image: gcr.io/toolbox-sandbox-388523/flask-app:latest
+  gcp-python:location: us-central1
+  gcp:project: toolbox-sandbox-388523

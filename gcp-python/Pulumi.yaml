@@ -1,0 +1,11 @@
+name: gcp-python
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+description: Projeto basico em python
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: gcp-python
