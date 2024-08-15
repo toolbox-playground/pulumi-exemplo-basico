@@ -55,6 +55,11 @@ Em casos de dúvidas, siga o passo-a-passo [aqui](https://www.pulumi.com/registr
 ### Como executar
 Dentro de cada pasta, você encontrará um readme.md com o passo a passo para execução do código.
 
+Se deseja criar um exemplo novo, execute o comando
+```
+pulumi new nome-da-pasta
+```
+
 ### Exemplo de Pipeline - ESTÁ SOB CONSTRUÇÃO!
 
 ## Contribuindo

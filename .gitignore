@@ -168,3 +168,4 @@ gcp-dotnet/$RECYCLE.BIN/
 gcp-dotnet/*.lnk
 
 # End of the generated gitignore file
+gcp-python/__pycache__
