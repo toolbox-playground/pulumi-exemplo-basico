@@ -1,23 +1,23 @@
 {
-    "name": "pulumi-exemplo-basico",
-    "version": "1.0.13",
-    "description": "Repositório exemplo para uso didático para Pulumi",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "release": "commit-and-tag-version"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/toolbox-playground/pulumi-exemplo-basico.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/toolbox-playground/pulumi-exemplo-basico/issues"
-    },
-    "homepage": "https://github.com/toolbox-playground/pulumi-exemplo-basico#readme",
-    "dependencies": {
-      "commit-and-tag-version": "^12.4.1"
-    }
+  "name": "pulumi-exemplo-basico",
+  "version": "1.1.0",
+  "description": "Repositório exemplo para uso didático para Pulumi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "commit-and-tag-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toolbox-playground/pulumi-exemplo-basico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toolbox-playground/pulumi-exemplo-basico/issues"
+  },
+  "homepage": "https://github.com/toolbox-playground/pulumi-exemplo-basico#readme",
+  "dependencies": {
+    "commit-and-tag-version": "^12.4.1"
   }
+}
