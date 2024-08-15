@@ -129,3 +129,42 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# .NET Core
+gcp-dotnet/bin/
+gcp-dotnet/obj/
+gcp-dotnet/artifacts/
+gcp-dotnet/**/*.user
+gcp-dotnet/**/*.rsuser
+gcp-dotnet/**/*.suo
+gcp-dotnet/**/*.userosscache
+gcp-dotnet/**/*.sln.docstates
+gcp-dotnet/.vscode/
+gcp-dotnet/.vs/
+
+# Rider
+gcp-dotnet/.idea/
+gcp-dotnet/*.sln.iml
+
+# Azure Functions
+gcp-dotnet/local.settings.json
+gcp-dotnet/functionapp.settings.json
+# Uncomment if using local dev settings for Azure
+# gcp-dotnet/**/appsettings.Development.json
+
+# Windows image file caches
+gcp-dotnet/Thumbs.db
+gcp-dotnet/Thumbs.db.old
+gcp-dotnet/ehthumbs.db
+gcp-dotnet/ehthumbs_vista.db
+
+# Folder config file
+gcp-dotnet/Desktop.ini
+
+# Recycle Bin used on file shares
+gcp-dotnet/$RECYCLE.BIN/
+
+# Windows shortcut files
+gcp-dotnet/*.lnk
+
+# End of the generated gitignore file
