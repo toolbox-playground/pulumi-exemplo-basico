@@ -1,6 +1,6 @@
 {
   "name": "pulumi-exemplo-basico",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Repositório exemplo para uso didático para Pulumi",
   "main": "index.js",
   "scripts": {
