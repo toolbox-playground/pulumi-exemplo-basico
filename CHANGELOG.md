@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.2.0 (2024-09-19)
+
+
+### Features
+
+* implementando pipeline de segurança com gitleaks ([f07b2a4](https://github.com/toolbox-playground/pulumi-exemplo-basico/commit/f07b2a40e0c6eb90acd371586b168b848883127e))
+
 ## 1.1.2 (2024-08-15)
 
 ## 1.1.1 (2024-08-15)
